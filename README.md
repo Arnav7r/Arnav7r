@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=200&section=header&text=Arnav%20Rai&fontSize=60&animation=twinkling&fontColor=0b1120&desc=CS%20(Data%20Science)%20Undergraduate&descAlignY=55&descColor=0b1120" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=200&section=header&text=Arnav%20Rai&fontSize=60&animation=twinkling&fontColor=0b1120&desc=CS%20(Data%20Science)%20Undergraduate&descAlignY=58&descColor=0b1120" width="100%"/>
 
 <a href="https://github.com/Arnav7r">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+AI-powered+Computer+Vision+Apps;RAG+%26+LLM+Enthusiast;Deep+Learning+%7C+PyTorch+%7C+TensorFlow;Open+to+AI%2FML+Opportunities" alt="Typing SVG" />
